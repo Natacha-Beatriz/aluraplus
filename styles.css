@@ -117,6 +117,7 @@ text-align: center;}
 color: var(--cinza-secundario);
 font-size: 14px;
 margin: 2em o;
+    display:flex;
 }
 
 .lista__link a:hover{
