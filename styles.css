@@ -112,15 +112,16 @@ text-align: center;}
 .lista__link a {
     color: var(--branco-principal);
     margin-left: 3em;
-    text-decoration: none;}
+    text-decoration: none;
+display:flex;}
 .rodape__texto{
 color: var(--cinza-secundario);
 font-size: 14px;
 margin: 2em o;}
+display: flex;
 
 .lista__link a:hover{
     color: var(--botao-azul);
-    display:flex;
 }
 
 .lista__link a:active{
